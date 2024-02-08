@@ -33,7 +33,7 @@ export function FirstBlock() {
                 </Reveal>
             </div>
             <MotionTransition className="flex items-center justify-center">
-                <Image src='/assets/logo-fest.png' alt='logo full fest' width={650} height={650} className="h-auto w-72 md:w-full" />
+                <Image src='/assets/logo-Fest.png' alt='logo full fest' width={650} height={650} className="h-auto w-72 md:w-full" />
             </MotionTransition>
         </div>
     </div>
