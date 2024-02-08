@@ -14,7 +14,7 @@ export function Photos() {
             </Reveal>
             <Reveal>
                 <div className="self-center">
-                    <p className="text-primaryDark">¡Full Fest en cada clic! Descubre la galería de fotos y revive la energía, la música de las mejores noches <br />¡Clickea ahora para sumergirte en la verdadera experiencia Full Fest!"
+                    <p className="text-primaryDark">¡Full Fest en cada clic! Descubre la galería de fotos y revive la energía, la música de las mejores noches <br />¡Clickea ahora para sumergirte en la verdadera experiencia Full Fest!
                     </p>
                 </div>
             </Reveal>

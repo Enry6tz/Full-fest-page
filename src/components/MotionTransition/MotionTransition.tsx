@@ -18,7 +18,7 @@ export function MotionTransition(props:MotionTransitionProps) {
         mainControls.start("visible")
         slideControl.start("visible")
       }
-    }, [isInView])
+    }, [isInView, mainControls, slideControl])
     
   return (
     <div ref={ref}>
