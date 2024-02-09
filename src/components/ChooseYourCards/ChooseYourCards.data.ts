@@ -4,11 +4,15 @@ export const  dataCards = [
         image: "/assets/card-1.jpg"
     },
     {
-        id:1,
+        id:2,
         image: "/assets/card-2.jpg"
     },
     {
-        id:1,
+        id:3,
         image: "/assets/card-3.jpg"
+    },
+    {
+        id:4,
+        image: "/assets/card-4.jpeg"
     },
 ]
