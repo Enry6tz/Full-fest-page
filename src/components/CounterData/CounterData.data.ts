@@ -16,5 +16,11 @@ export const dataCounter =[
         startNumber:1,
         endNumber:5,
         text: "Años de Fiesta Continua"
+    },
+    {
+        id:3,
+        startNumber:1,
+        endNumber:5,
+        text: "Años de Fiesta Continua"
     }
 ]
