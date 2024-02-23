@@ -41,7 +41,7 @@ export const dataPhotos =[
     },
     {
         id: 6,
-        name: "Bonifacio-OpenAir",
+        name: "Bonifacio-dePrueba",
         date: "18/11/2023",
         description: "Explora las fotos de Bonifacio al Aire Libre y revive los buenos momentos.",
         image:  "/assets/bonifacio.jpg",
