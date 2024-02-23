@@ -9,6 +9,7 @@ import Link from 'next/link'
 
 export function Slide() {
     return (
+        <Reveal>
         <Swiper
             breakpoints={{
                 320:{
@@ -30,7 +31,6 @@ export function Slide() {
             {dataPhotos.map(({ id, name, date, description, image, url }) => (
                 <SwiperSlide key={id} className='my-5 cursor-pointer md:px-10'>
                     <Link href={url} target='blank'>
-                    <Reveal>
                         <Image src="/assets/testimonial-icon.png" alt="eventos anteriores" width={50} height={50} className='w-auto h-auto' />
                         <div className='my-5'>
                             {description}
@@ -42,11 +42,11 @@ export function Slide() {
                                 <p className='text-primaryDark'>{date}</p>
                             </div>
                         </div>
-                    </Reveal>
                     </Link>
                 </SwiperSlide>
             ))}
         </Swiper>
+            </Reveal>
     )
 }
 

@@ -8,6 +8,7 @@ import { ControlSocial } from "@/components/ControlSocial"
 import { Photos } from "@/components/Photos"
 import { PaymentsMethods } from "@/components/PaymentsMethods"
 import { Footer } from "@/components/Footer"
+import {SpotySection} from "@/components/SpotySection/SpotySection"
 
 
 export default function Home() {

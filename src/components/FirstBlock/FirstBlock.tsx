@@ -15,7 +15,7 @@ export function FirstBlock() {
             <div className="mt-10">
                <Reveal>
                 <h1 className="text-5xl font-semibold">
-                    ¡Bienvenido a
+                    ¡Bienvenido a la
                     <span className="block degradedBlue bg-greenLight font-bold">
                         EXPERIENCIA
                     </span>

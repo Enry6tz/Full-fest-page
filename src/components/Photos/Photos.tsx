@@ -1,5 +1,4 @@
 "use client"
-
 import { BackgroundRadialLeft } from "../BackgroundRadialLeft"
 import { Reveal } from "../Reveal"
 import { Slide } from "./Slide"

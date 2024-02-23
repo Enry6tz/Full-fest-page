@@ -1,5 +1,3 @@
-
-
 export const dataPhotos =[
     {
         id: 1,

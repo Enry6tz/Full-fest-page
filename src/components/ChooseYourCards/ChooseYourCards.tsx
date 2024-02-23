@@ -23,7 +23,7 @@ export function ChooseYourCards() {
             </Reveal>
             <Reveal>
                 <div className="my-8">
-                    <Link href="#Proximas" className="px-4 py-3 rounded-md bg-greenRadial  text-3xl">Comprar tickets</Link>
+                    <Link href="#Proximas" className="px-4 py-3 rounded-md bg-greenRadial  sm:text-3xl">Comprar tickets</Link>
                 </div>
             </Reveal>
             </div>
